@@ -40,10 +40,7 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <div>
-          <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
-          <a href="https://google.com" class="contact-button no-print" itemprop="email">Visit Website</a>
-        </div>
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
@@ -235,6 +232,7 @@
       {% endif %}
 
       <footer class="page-footer">
+        <a href="https://google.com" class="contact-button no-print" itemprop="email">Visit Website</a>
         <p class="footer-line">Redesigned by <a href="https://www.linkedin.com/in/prakash-pro/">Satya Prakash</a>. Fork me on <a href="https://github.com/prakashZip">GitHub</a>.</p>
       </footer>
 

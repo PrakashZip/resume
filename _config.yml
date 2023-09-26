@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Satya Prakash"
+description: "Portfolio for Prakash"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Satya Prakash Sahoo"
+resume_name:                    "Satya Prakash"
 resume_title:                   "Solutions Architect"
 
 # used for the contact button in _layouts/resume.html
