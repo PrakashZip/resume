@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Tanzatalks.com
+- project: gearupacademy.co.in
+  role: Developer and Cloud ops
+  duration: Apr, 2023 &mdash; Present
+  url: "https://gearupacademy.co.in"
+  description: Developed client’s website for Data Science Program selling business. Utilized HTML5, CSS3, JavaScript, PHP, Google sheets Linkups, Connected easy payment links and gateways. Worked with higher officials on Figma for rebranding v2 of website targeted to be launched in December 2023.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: tanzatalks.com
+  role: Developer and Designer
+  duration: Aug, 2022 &mdash; Feb, 2023
+  url: "https://tanzatalks.com"
+  description: Designed and optimized website performance by boosting speed from 50 seconds to < 10 seconds. Utilized Light Speed Cache, WordPress v6.0 and PHP. Created interactive designs that increased site conversion rates by 98% on a live event.

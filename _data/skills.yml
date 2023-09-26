@@ -1,12 +1,23 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# AWS
+- skill: Amazon Web Services (AWS)
+  description: Proficient in various AWS services, including cloud computing, EC2, VPC setup, IAM policies, RDS management, and software installation.
+# Web Development
+- skill: Web Development
+  description: Skilled in web technologies such as HTML, CSS, JavaScript, PHP, MySQL, with a basic understanding of React, XML, and web development fundamentals.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Development 
+- skill: Development
+  description: Proficient in Java programming, capable of developing, designing architecture and maintaining Java applications.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Code Editors and Tools
+- skill: Code Editors and Tools
+  description: Experienced in using code editors like Visual Studio Code, GitHub for version control, and proficient in cross-browser development with browser debugging tools.
+
+# Basic Organizational Skills
+- skill: Basic Organizational Skills
+  description: Competent in using productivity tools like Microsoft Suite, G Suite, Trello for project management, Canva and Figma for design and Xmind for mind mapping.
+
+# Communicational Skills
+- skill: Communication Skills
+  description: Fluent in English, Hindi, and Odia, with a demonstrated ability in client communications and B2B deal negotiations.
